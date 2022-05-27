@@ -9,4 +9,4 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-paunikar&langs_count=5&theme=tokyonight" height="200"/>
 </div>
 
-[![Monster rolodex name](https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monsters-rolodex&show_owner=true)](https://github.com/ketan-paunikar/monsters-rolodex)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketan-paunikar&theme=dark&show_icons=true)
