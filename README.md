@@ -10,6 +10,9 @@
 </div>
 <br>
 <br>
+
+<h1 align='center'> Personal Projects I have wokred on</h1>
+
 <div align='center'>
   <div>
           <a href="https://github.com/ketan-paunikar/ticketing-tool">
