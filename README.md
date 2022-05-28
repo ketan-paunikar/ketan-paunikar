@@ -19,7 +19,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=ping-pong&show_owner=true&theme=dark&show_icons=true"/>
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=infinite-scroll&show_owner=true&theme=dark&show_icons=true"/>
   </div>
-  <div align='center'>
-    <img src = "https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monster-rolodex&show_owner=true&theme=dark&show_icons=true"/>
-  </div>
 </div>
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monsters-rolodex)](https://github.com/ketan-paunikar/monsters-rolodex)
