@@ -10,15 +10,29 @@
 </div>
 <br>
 <br>
-<div>
-  <div align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=ticketing-tool&show_owner=true&theme=dark&show_icons=true"/>
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monsters-rolodex&show_owner=true&theme=dark&show_icons=true"/>
+<div align='center'>
+  <div>
+          <a href="https://github.com/ketan-paunikar/ticketing-tool">
+                <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=ticketing-tool&theme=tokyonight&showicons=true">
+          </a>
+           <a href="https://github.com/ketan-paunikar/monsters-rolodex">
+                <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monsters-rolodex&theme=tokyonight&showicons=true">
+          </a>
   </div>
-  <div align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=ping-pong&show_owner=true&theme=dark&show_icons=true"/>
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=infinite-scroll&show_owner=true&theme=dark&show_icons=true"/>
+  <div>
+          <a href="https://github.com/ketan-paunikar/ping-pong">
+                <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=ping-pong&theme=tokyonight&showicons=true">
+          </a>
+          <a href="https://github.com/ketan-paunikar/infinite-scroll">
+                <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=infinite-scroll&theme=tokyonight&showicons=true">
+          </a>
   </div>
-</div>
+  <div>
+          <a href="https://github.com/ketan-paunikar/monster-rolodex">
+                <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monster-rolodex&theme=tokyonight&showicons=true">
+          </a>
+  </div>
+</div>  
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monsters-rolodex)](https://github.com/ketan-paunikar/monsters-rolodex)
+
+
