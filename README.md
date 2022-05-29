@@ -22,15 +22,14 @@
                 <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=infinite-scroll&theme=tokyonight&showicons=true">
           </a>
   </div>
-  <br>
-  <br>
   <div>
           <a href="https://github.com/ketan-paunikar/monster-rolodex">
                 <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monster-rolodex&theme=tokyonight&showicons=true">
           </a>
   </div>
 </div>  
-
+<br>
+<br>
 
 <div align='center'>
 <img src ="https://github-readme-stats.vercel.app/api/?username=ketan-paunikar&count_private=true&theme=tokyonight&showicons=true" height="180"/>
