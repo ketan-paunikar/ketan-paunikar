@@ -7,8 +7,8 @@
 
 <div align='center'>
   <div>
-          <a href="https://github.com/ketan-paunikar/ticketing-tool">
-                <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=ticketing-tool&theme=tokyonight&showicons=true">
+          <a href="https://github.com/ketan-paunikar/ticketingtool">
+                <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=ticketingtool&theme=tokyonight&showicons=true">
           </a>
            <a href="https://github.com/ketan-paunikar/monsters-rolodex">
                 <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ketan-paunikar&repo=monsters-rolodex&theme=tokyonight&showicons=true">
